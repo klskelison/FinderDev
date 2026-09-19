@@ -6,8 +6,7 @@ Uma aplicação moderna e responsiva desenvolvida em React que consome a API ofi
 ---
 
 ## 📸 Demonstração do Visual
-![Uploading Captura de tela 2026-0<img width="882" height="593" alt="Captura de tela 2026-09-19 154823" src="https://github.com/user-attachments/assets/0fa1a1e3-3ef5-40d3-86f2-7e69c8f044c6" />
-9-19 154823.png…]()
+<img width="882" height="593" alt="Image" src="https://github.com/user-attachments/assets/73d07464-29a4-4301-9ef4-5a6e1f70f2e4" />
 
 
 ---
