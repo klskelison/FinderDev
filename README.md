@@ -1,16 +1,63 @@
-# React + Vite
+# 🐙 GitHub DevFinder
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Uma aplicação moderna e responsiva desenvolvida em React que consome a API oficial do GitHub para buscar perfis de desenvolvedores em tempo real. Este projeto foi construído como parte do meu portfólio prático durante a faculdade de Análise e Desenvolvimento de Sistemas (ADS).
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 📸 Demonstração do Visual
+![Uploading Captura de tela 2026-0<img width="882" height="593" alt="Captura de tela 2026-09-19 154823" src="https://github.com/user-attachments/assets/0fa1a1e3-3ef5-40d3-86f2-7e69c8f044c6" />
+9-19 154823.png…]()
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tecnologias e Conceitos Utilizados
+
+O projeto foi construído utilizando as ferramentas padrões exigidas pelo mercado atual:
+
+- **React.js (com Vite):** Criação de componentes funcionais rápidos e estrutura de SPA (Single Page Application).
+- **Tailwind CSS:** Estilização baseada em utilitários para criar uma interface limpa, moderna (Dark Mode) e totalmente responsiva.
+- **JavaScript Avançado (ES6+):** Manipulação de dados assíncronos.
+- **Integração com API REST:** Uso de `fetch` nativo com `async/await` para buscar dados dinâmicos do servidor do GitHub.
+- **Hooks do React:** 
+  - `useState`: Gerenciamento do estado do input de busca e dos dados retornados da API.
+- **Renderização Condicional:** Controle de interface para exibir uma mensagem inicial amigável e alternar para o card apenas quando os dados forem carregados, tratando cenários vazios.
+
+---
+
+## ⚙️ Como executar o projeto localmente
+
+Caso queira clonar este repositório e rodar na sua máquina, siga os passos abaixo no seu terminal:
+
+1. **Clone o repositório:**
+   ```bash
+   git clone [Link do seu repositório do GitHub aqui]
+   ```
+
+2. **Entre na pasta do projeto:**
+   ```bash
+   cd github-devfinder
+   ```
+
+3. **Instale as dependências necessárias:**
+   ```bash
+   npm install
+   ```
+
+4. **Inicie o servidor de desenvolvimento local:**
+   ```bash
+   npm run dev
+   ```
+
+5. Abra o navegador no link fornecido pelo terminal (geralmente `http://localhost:5173/`).
+
+---
+
+## 👨‍💻 Autor
+
+Desenvolvido por **[Kelison Ribeiro de Lima]**  
+Estudante de Análise e Desenvolvimento de Sistemas (ADS) | Tatuí - SP  
+
+Se você gostou deste projeto ou quer trocar ideias sobre desenvolvimento de software, vamos nos conectar!
+- **LinkedIn:** [Acesse meu LinkedIn]([www.linkedin.com/in/kelison-lima-08b21a3b4])
