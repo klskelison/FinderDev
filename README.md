@@ -1,7 +1,9 @@
 # 🐙 GitHub DevFinder
 
 Uma aplicação moderna e responsiva desenvolvida em React que consome a API oficial do GitHub para buscar perfis de desenvolvedores em tempo real. Este projeto foi construído como parte do meu portfólio prático durante a faculdade de Análise e Desenvolvimento de Sistemas (ADS).
+---
 
+🚀 **[Clique aqui para ver o projeto no ar (Deploy na Vercel)](([https://finder-dev.vercel.app/]))**
 
 ---
 
